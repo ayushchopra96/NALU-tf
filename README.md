@@ -2,7 +2,7 @@
 
 ## This is an implementation of the paper "Neural Arithmetic Logic Units", Trask et al., ArXiV, 2018
 
-## the code implements the MNIST arithmetic task given in the paper
+## The code implements the MNIST arithmetic task given in the paper
 
 To start training, run -
 ```
@@ -21,7 +21,6 @@ To test the baseline model run -
 ```
 python GRU_test.py
 ```
-
 
 The mean absolute error at different extrapolation ranges can be obtained by changing the sequence_length value.
 
